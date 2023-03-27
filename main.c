@@ -3,11 +3,8 @@
 #include "main.h"
 
 /**
-<<<<<<< HEAD
  * main - Entry point.
-=======
- * main - Entry point
->>>>>>> 883a3bb8767c31ec32b1d067d32d3f77e167c55b
+ * main - Entry point.
  *
  * Return: Always 0
  */

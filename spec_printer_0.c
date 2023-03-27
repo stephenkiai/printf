@@ -5,11 +5,8 @@
 
 /**
  * convert_fmt_percent - Prints a percent sign (%)
-<<<<<<< HEAD
  * @args_list: The arguments list.
-=======
- * @args_list: The arguments list
->>>>>>> 883a3bb8767c31ec32b1d067d32d3f77e167c55b
+ * @args_list: The arguments list.
  * @fmt_info: The format info
  */
 void convert_fmt_percent(va_list *args_list, fmt_info_t *fmt_info)

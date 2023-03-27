@@ -3,11 +3,8 @@
 
 /**
  * init_format_info - initializes a format info struct
-<<<<<<< HEAD
  * @spec: The format info to initialize.
-=======
- * @spec: The format info to initialize
->>>>>>> 883a3bb8767c31ec32b1d067d32d3f77e167c55b
+ * @spec: The format info to initialize.
  */
 void init_format_info(fmt_info_t *spec)
 {

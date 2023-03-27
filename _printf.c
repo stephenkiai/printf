@@ -7,11 +7,8 @@
 
 /**
  * _printf - produces output according to a format
-<<<<<<< HEAD
  * @format: The specified format.
-=======
- * @format: The specified format
->>>>>>> 883a3bb8767c31ec32b1d067d32d3f77e167c55b
+ * @format: The specified format.
  *
  * Return: The number of characters that were printed
  */
