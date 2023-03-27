@@ -16,8 +16,8 @@ This program implements a custom printf function that supports the following con
 The program also supports the following flag characters:
 
     **0** : left-pads the output with zeros instead of spaces
-        : left-justifies the output within the given field width
-        : always prints the sign of a signed number (+ or -)
+    **#** : left-justifies the output within the given field width
+    **+** : always prints the sign of a signed number (+ or -)
     **space** : prints a space before a positive number (overrides the + flag)
 
 The program also supports the following length modifiers:
@@ -32,8 +32,8 @@ In addition, the program supports the following custom conversion specifiers:
 
 The maximum field width that can be specified is 1024 characters. This buffer size is used to minimize the number of calls to the write function.
     
-    **AUTHOR**
+    **AUTHORS**
     This project is a collaboration between:
-    #
-    #
+    #  **Stephen kiai**
+    #  **Terry Wambui** --> "https://github.com/terryyufei"
     
