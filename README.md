@@ -1,4 +1,5 @@
- **This repository contains alx files on the printf project.**
+ **printf project.**
+ **A custom-printf function imlementation**
 
  **TASK ZERO**
 Write a function that produces output according to a format.
