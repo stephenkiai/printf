@@ -1,5 +1,5 @@
  **printf project.**
- **A custom-printf function imlementation**
+ **A custom-printf function implementation**
 
  **TASK ZERO**
 Write a function that produces output according to a format.
