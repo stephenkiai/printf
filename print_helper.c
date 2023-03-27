@@ -5,7 +5,11 @@
 /**
  * print_repeat - Prints a character n times
  * @c: The character to print
+<<<<<<< HEAD
  * @n: The number of times to print the character.
+=======
+ * @n: The number of times to print the character
+>>>>>>> 883a3bb8767c31ec32b1d067d32d3f77e167c55b
  */
 void print_repeat(char c, int n)
 {

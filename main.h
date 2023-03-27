@@ -26,7 +26,11 @@
 /**
  * struct format_info - Contains information about the options
  * \ and flags appearing in an instance of the conversion specifier
+<<<<<<< HEAD
  * @prec: The specified precision.
+=======
+ * @prec: The specified precision
+>>>>>>> 883a3bb8767c31ec32b1d067d32d3f77e167c55b
  * @width: The length of the formatted data
  * @spec: The specified conversion specifier character
  * @is_long_double: Specifies the presence of the 'L' length modifier
