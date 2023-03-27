@@ -35,5 +35,5 @@ The maximum field width that can be specified is 1024 characters. This buffer si
     **AUTHORS**
     This project is a collaboration between:
     #  **Stephen kiai**
-    #  **Terry Wambui** --> "https://github.com/terryyufei"
+    #  **Terry Wambui** --> <a>https://github.com/terryyufei</a>
     
