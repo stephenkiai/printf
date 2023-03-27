@@ -5,7 +5,7 @@
 
 /**
  * convert_fmt_fF - Prints the decimal representation of a double
- * @args_list: The arguments list
+ * @args_list: The arguments list.
  * @fmt_info: The format info
  *
  * Return: The number of characters written

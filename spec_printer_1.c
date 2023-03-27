@@ -5,7 +5,7 @@
 
 /**
  * convert_fmt_di - Prints a signed integer
- * @args_list: The arguments list
+ * @args_list: The arguments list.
  * @fmt_info: The format info
  *
  * Return: The number of characters written
