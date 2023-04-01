@@ -8,7 +8,6 @@
 /**
  * _printf - produces output according to a format
  * @format: The specified format.
- * @format: The specified format.
  *
  * Return: The number of characters that were printed
  */
